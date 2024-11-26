@@ -1,0 +1,1 @@
+[{"uuid":"3ffc45d5-e5cf-4c72-a872-f8131334e04e","kind":"graph","params":{"a":"-2","b":"2","c":"-2","d":"2","z":"cos(1*x + 2*y + t)/(1 + x^2 + y^2)","t0":"0","t1":"2 pi"},"animation":true,"color":"#3232ff"}]

@@ -1,0 +1,1 @@
+[{"uuid":"7895b5c4-bfe2-4f7a-93aa-e907db8c1d77","params":{"p":"sin(x*y)","q":"-atan(sin(3*z))","r":"x^2 - y^2 - z^3/2","nVec":"6"},"kind":"field","color":"#000fcc","animation":true,"title":"Vector Field 1"}]

@@ -1,0 +1,1 @@
+[{"uuid":"35432f06-5507-415c-969a-bdaa4599a76c","kind":"curve","params":{"a":"0","b":"2*pi","x":"cos(t)","y":"sin( 3 t)","z":"sin(2 t) + cos(2 t)"},"color":"#a71905","animation":false}]
